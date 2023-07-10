@@ -1,0 +1,656 @@
+body{
+    width: 1172px;
+    height: 500px;
+    background: url("sliki/bg1.jpg") no-repeat;
+}
+header{
+    width: 1533px;
+    height: 50px;
+    background: snow;
+    margin-left: -8px;
+    border: solid grey 2px;
+    margin-top: 15px;
+}
+.menu {
+    float: right;
+    margin-top: 15px;
+}
+.menu a{
+    padding: 8px;
+    padding-right: 40px;
+    text-decoration: none;
+    font-weight: lighter;
+    font-size: 17px;
+    font-family: Arial;
+}
+.menu a:last-of-type{
+    margin-right: 90px;
+}
+#par {
+    font-family: "Brush Script MT";
+    font-size: 50px;
+    letter-spacing: 15px;
+    margin-top: -229px;
+    margin-left: 369px;
+}
+#part1 img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+#part1{
+    width: 300px;
+    height: 300px;
+    margin-top: -24px;
+    margin-left: 65px;
+}
+#part2 img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    padding-left: 0;
+    margin-top: -306px;
+    border: solid lightgray;
+    border-radius: 5px;
+    margin-left: 353px;
+}
+#part2{
+    width: 359px;
+    height: 400px;
+    float: right;
+}
+#logo{
+    font-family: "Trebuchet MS";
+    font-weight: bold;
+    font-size: 40px;
+    color: deeppink;
+    margin-top: -51px;
+    margin-left: 19px;
+}
+footer{
+    width: 1533px;
+    height: 50px;
+    background: snow;
+    margin-left: -8px;
+    border: solid grey 2px;
+    margin-top: 248px;
+}
+.mn{
+    background-color: deeppink;
+    color: white;
+    border-radius: 6px;
+}
+.mnn{
+    color: black;
+}
+.menu1 {
+    float: right;
+    margin-top: -22px;
+}
+.menu1 a{
+    padding: 8px;
+    padding-right: 40px;
+    text-decoration: none;
+    font-weight: lighter;
+    font-size: 17px;
+    font-family: Arial;
+}
+.menu1 a:last-of-type{
+    margin-right: 90px;
+}
+#foo{
+    font-size: 17px;
+    margin-top: 15px;
+    font-family: monospace;
+    position: relative;
+    left: -80px;
+    background-color: deeppink;
+    width: 269px;
+    color: white;
+}
+#info{
+    width: 631px;
+    height: 174px;
+    background-color: snow;
+    font-size: 19px;
+    font-family: serif;
+    margin-left: 454px;
+    border-radius: 34px;
+}
+#info p{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+#garden{
+    width: 600px;
+    height: 300px;
+    margin-left: 208px;
+    margin-top: 187px;
+    position: relative;
+}
+#garden #first{
+    max-width: 50%;
+    max-height: 50%;
+    object-fit: contain;
+    padding-left: 258px;
+    margin-top: -306px;
+    margin-left: 353px;
+}
+#garden #second {
+    max-width: 50%;
+    max-height: 50%;
+    object-fit: contain;
+    padding-left: 126px;
+    margin-top: -306px;
+    margin-left: 353px;
+}
+#garden #third {
+     max-width: 50%;
+     max-height: 50%;
+     object-fit: contain;
+     padding-left: 0;
+     margin-top: -306px;
+     margin-left: 353px;
+}
+#Sphoto img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    padding-left: 0;
+    margin-top: -306px;
+    border: solid lightgray;
+    border-radius: 5px;
+    margin-left: 353px;
+}
+#Sphoto{
+    width: 359px;
+    height: 266px;
+    float: left;
+    margin-left: -224px;
+    margin-top: -109px;
+}
+#Sam{
+    float: left;
+    margin-top: -471px;
+    margin-left: 89px;
+    font-family: serif;
+    font-size: 18px;
+    border-radius: 34px;
+    background-color: snow;
+}
+iframe{
+    width: 674px;
+    height: 278px;
+    margin-top: -241px;
+    margin-right: -255px;
+    float: right;
+}
+.contacts{
+    margin-top: -35px;
+    margin-left: 20px;
+    padding-left: 176px;
+}
+.contacts a{
+    padding: 8px;
+    padding-right: 40px;
+    text-decoration: none;
+    font-weight: lighter;
+    font-size: 17px;
+    font-family: Arial;
+    color: deeppink;
+}
+#foo1{
+    font-size: 17px;
+    margin-top: 15px;
+    font-family: monospace;
+    position: relative;
+    left: -1px;
+    background-color: deeppink;
+    width: 132px;
+    color: white;
+    padding-left: 56px;
+}
+.sredno #srednoImg{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    margin-top: 224px;
+    border: solid lightgray;
+    border-radius: 5px;
+    margin-left: -325px;
+}
+.sredno{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+.sredno #srednoImgg{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    margin-top: -71px;
+    border: solid lightgray;
+    border-radius: 5px;
+    margin-left: -85px;
+}
+.sredno_logo img{
+    max-width: 100%;
+    max-height: 60%;
+    object-fit: contain;
+    margin-top: -71px;
+    border: solid lightgray;
+    border-radius: 5px;
+    margin-left: 183px;
+}
+.sredno_logo{
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+#footer{
+    width: 1533px;
+    height: 50px;
+    background: snow;
+    margin-left: -8px;
+    border: solid grey 2px;
+    margin-top: 430px;
+}
+#edu{
+    width: 722px;
+    height: 319px;
+    background-color: deeppink;
+    font-size: 19px;
+    font-family: serif;
+    margin-left: 635px;
+    border-radius: 34px;
+    margin-top: 133px;
+    padding-right: 108px;
+}
+#edu p{
+    text-align: justify;
+    padding-top: 25px;
+    padding-right: 76px;
+    margin-left: 91px;
+    background-color: snow;
+    border-radius: 34px;
+}
+#edu span{
+    font-family: cursive;
+}
+#finki{
+    width: 500px;
+    height: 72px;
+    float: right;
+}
+#finki img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border: solid lightgray;
+    border-radius: 5px;
+    margin-left: 181px;
+    top: -476px;
+    position: relative;
+}
+#education{
+    width: 500px;
+    height: 251px;
+    float: right;
+}
+#education img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border: solid lightgray;
+    border-radius: 5px;
+    margin-left: 733px;
+    margin-top: -24px;
+}
+#skill1{
+    width: 722px;
+    height: 319px;
+    font-size: 19px;
+    font-family: serif;
+    border-radius: 34px;
+    padding-right: 108px;
+}
+#skill1 p{
+    margin-left: 30px;
+    text-align: justify;
+    background-color: snow;
+    border-radius: 34px;
+}
+#skill1 ul{
+     margin-left: 30px;
+     width: 230px;
+     text-align: justify;
+     background-color: snow;
+     border-radius: 34px;
+}
+.cookingImg img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+.cookingImg{
+    width: 300px;
+    height: 300px;
+    margin-top: -233px;
+    margin-left: 389px;
+}
+.cookingImgg img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+.cookingImgg {
+    width: 291px;
+    height: 321px;
+    margin-top: -374px;
+    margin-left: 808px;
+}
+.cookingImggg img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+.cookingImggg {
+    width: 326px;
+    height: 357px;
+    margin-top: -323px;
+    margin-left: 1202px;
+}
+#listening{
+    width: 1127px;
+    height: 319px;
+    font-size: 19px;
+    font-family: serif;
+    border-radius: 34px;
+    padding-right: 108px;
+}
+#listening p{
+    margin-left: 612px;
+    text-align: justify;
+    background-color: snow;
+    border-radius: 34px;
+}
+#listening span{
+    font-family: cursive;
+}
+#listening ul{
+    margin-left: 616px;
+    width: 265px;
+    text-align: justify;
+    background-color: snow;
+    border-radius: 34px;
+}
+.book1 img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+.book1{
+    width: 157px;
+    height: 350px;
+    margin-top: -364px;
+    margin-left: 22px;
+}
+.book2 img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+.book2 {
+    width: 162px;
+    height: 250px;
+    margin-top: -415px;
+    margin-left: 225px;
+}
+.book3 img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+.book3 {
+    width: 160px;
+    height: 442px;
+    margin-top: -186px;
+    margin-left: 405px;
+}
+#biggest{
+    width: 250px;
+    height: 301px;
+    margin-top: -371px;
+    float: right;
+    margin-right: -297px;
+}
+#biggest img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: -7px;
+}
+#biggest p{
+    margin-left: -12px;
+    text-align: justify;
+    background-color: snow;
+    border-radius: 34px;
+    font-family: serif;
+    font-size: 19px;
+}
+#meme img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+#meme {
+    width: 275px;
+    height: 215px;
+    margin-top: -177px;
+    margin-left: 160px;
+}
+#skillInfo{
+    width: 254px;
+    height: 245px;
+    font-size: 19px;
+    font-family: serif;
+    border-radius: 34px;
+    padding-right: 108px;
+    background-color: snow;
+    margin-top: -203px;
+    margin-left: 566px;
+}
+#skillInfo p{
+    margin-left: 30px;
+    text-align: justify;
+    background-color: snow;
+    border-radius: 34px;
+}
+#skillInfo ul{
+    margin-left: 30px;
+    width: 230px;
+    text-align: justify;
+    background-color: snow;
+    border-radius: 34px;
+}
+#s1 img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+#s1{
+    width: 261px;
+    height: 453px;
+    margin-top: -479px;
+    margin-left: 94px;
+}
+#s2 img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+#s2{
+    width: 348px;
+    height: 566px;
+    margin-top: -232px;
+    margin-left: 160px;
+}
+#s3 img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+#s3{
+    width: 327px;
+    height: 220px;
+    margin-top: -200px;
+    margin-left: 599px;
+}
+#s4 img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+#s4{
+    width: 275px;
+    height: 233px;
+    margin-top: -169px;
+    margin-left: 86px;
+}
+#foot{
+    width: 1533px;
+    height: 50px;
+    background: snow;
+    margin-left: -8px;
+    border: solid grey 2px;
+    margin-top: 358px;
+}
+#s5 img{
+     max-width: 100%;
+     max-height: 100%;
+     object-fit: contain;
+     border-radius: 5px;
+     border: solid lightgray;
+     margin-top: 13px;
+ }
+#s5{
+    width: 275px;
+    height: 233px;
+    margin-top: -881px;
+    float: right;
+    margin-right: 393px;
+}
+#s6 img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+#s6{
+    width: 354px;
+    height: 276px;
+    margin-left: 1053px;
+    position: relative;
+    top: -829px;
+}
+#s7 img{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 5px;
+    border: solid lightgray;
+    margin-top: 13px;
+}
+#s7{
+    width: 282px;
+    height: 266px;
+    margin-left: 1094px;
+    position: relative;
+    bottom: 764px;
+}
+#s8 img{
+     max-width: 100%;
+     max-height: 100%;
+     object-fit: contain;
+     border-radius: 5px;
+     border: solid lightgray;
+     margin-top: 13px;
+ }
+#s8{
+    idth: 305px;
+    height: 241px;
+    margin-top: -762px;
+    float: right;
+    margin-right: -224px;
+}
+.menu2 {
+    float: right;
+    margin-top: -36px;
+}
+.menu2 a{
+    padding: 8px;
+    padding-right: 40px;
+    text-decoration: none;
+    font-weight: lighter;
+    font-size: 17px;
+    font-family: Arial;
+}
+.menu2 a:last-of-type{
+    margin-right: 90px;
+}
+#main3{
+    height: 768px;
+    position: relative;
+    top: 408px;
+}
+#main{
+    height: 700px;
+}
+#footerr{
+    width: 1533px;
+    height: 50px;
+    background: snow;
+    margin-left: -8px;
+    border: solid grey 2px;
+    margin-top: 94px;
+}
