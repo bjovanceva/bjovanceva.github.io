@@ -381,16 +381,18 @@ iframe{
     padding-right: 108px;
 }
 #listening p{
+    margin-top: 62px;
     margin-left: 612px;
     text-align: justify;
     background-color: snow;
     border-radius: 34px;
+    width: 727px;
 }
 #listening span{
     font-family: cursive;
 }
 #listening ul{
-    margin-left: 616px;
+    margin-left: 946px;
     width: 265px;
     text-align: justify;
     background-color: snow;
